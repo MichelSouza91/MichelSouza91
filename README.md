@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Michel Almeida de Souza
+# 👨🏽‍💻 Michel Almeida de Souza
 
 **`Infraestrutura TI | Cloud`**
 
